@@ -1,9 +1,12 @@
 
 # README maker
+
     
 ## Description
 
 As a user I want to easily be able to create a professional README
+
+https://www.youtube.com/watch?v=58DeXCuX2-4&ab_channel=MacoRodriguez
 
 ## Table of Contents
 > - [Description](#description)
